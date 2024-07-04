@@ -1,0 +1,5 @@
+hello world.
+this is a file handling example.
+writing to a file is simple!
+Appending additional content.
+this file now contains more text!
